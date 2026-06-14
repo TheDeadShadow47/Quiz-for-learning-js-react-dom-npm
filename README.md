@@ -16,7 +16,3 @@ A fast, interactive web programming quiz built from scratch using React and Vite
 
 ## How to Run Locally
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR-USERNAME/react-quiz-app.git](https://github.com/YOUR-USERNAME/react-quiz-app.git)
-   cd react-quiz-app
