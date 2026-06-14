@@ -14,5 +14,4 @@ A fast, interactive web programming quiz built from scratch using React and Vite
 * **Build Tool:** Vite
 * **Styling:** Custom CSS (No external libraries like Bootstrap or Tailwind)
 
-## How to Run Locally
 
